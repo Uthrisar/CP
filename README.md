@@ -1,5 +1,7 @@
 # CP
 #leetcode Problems
+#GFG Problems
+#SPOJ Problems
 
 <!DOCTYPE html>
 <html lang="en">
