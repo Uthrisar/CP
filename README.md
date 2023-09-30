@@ -6,6 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="" alt="">
+    <img src="/CP/github_cp.gif" alt="pic">
 </body>
 </html>
